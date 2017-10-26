@@ -16,7 +16,7 @@ public class BoardAction extends MyAction {
 		String mode=req.getParameter("mode");
 		
 		if(mode==null||mode.equals("list")) {
-			//¸®½ºÆ®
+			//Â¸Â®Â½ÂºÃ†Â®
 			
 			forward(req, resp, "/WEB-INF/views/bbs/list.jsp");
 			
@@ -25,5 +25,5 @@ public class BoardAction extends MyAction {
 			forward(req,resp, "/WEB-INF/views/bbs/created.jsp");
 		}
 	}
-
+abcd
 }
