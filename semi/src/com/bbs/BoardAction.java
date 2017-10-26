@@ -25,5 +25,4 @@ public class BoardAction extends MyAction {
 			forward(req,resp, "/WEB-INF/views/bbs/created.jsp");
 		}
 	}
-abcd
 }
