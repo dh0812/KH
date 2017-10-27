@@ -1,5 +1,5 @@
 package com.test;
 
-public class asd {
+public class asasdasdd {
 
 }
